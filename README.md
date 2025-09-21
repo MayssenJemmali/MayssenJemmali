@@ -102,7 +102,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayssenjemmali&theme=react&layout=compact&langs_count=6&hide_border=false" alt="Top languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayssenjemmali&theme=react&layout=compact&langs_count=6&hide_border=false&hide=css" alt="Top languages" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=mayssenjemmali&theme=react&hide_border=false" alt="GitHub streak" height="180px"/>
 </div>
 
